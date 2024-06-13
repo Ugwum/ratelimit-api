@@ -70,7 +70,7 @@ The application is configured using the `appsettings.json` file. You need to con
 
 #### 1.  Clone the repository:
 ```sh
-git clone https://github.com/your-repo/RateLimitDemoApi.git
+git clone https://github.com/ugwum/RateLimitDemoApi.git
 cd RateLimitDemoApi
 ```
 #### 2. Restore the dependencies:
