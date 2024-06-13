@@ -56,6 +56,8 @@ namespace RateLimitDemoApi
 
             app.UseAuthorization();
 
+            app.UseCors();
+
 
             app.MapControllers();
 
