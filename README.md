@@ -84,8 +84,8 @@ dotnet build
 #### 4. Run the application:
 ```sh
 dotnet run
-The application should now be running at http://localhost:5000.
 ```
+The application should now be running at http://localhost:5000.
 
 ## Project Structure
  - RateLimitDemoApi: The main API project.
@@ -112,8 +112,9 @@ The project includes a Dockerfile and a docker-compose.yml file to facilitate ru
 ##### Build and run the Docker containers:
 ```sh
 docker-compose up --build
-The API will be available at http://localhost:5001 and Redis at localhost:6379.
 ```
+The API will be available at http://localhost:5001 and Redis at localhost:6379.
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
